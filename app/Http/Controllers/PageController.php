@@ -18,7 +18,6 @@ class PageController extends Controller
         $request->validate([
             'name'=> 'required',
             'email'=> 'required',
-            'message'=> 'required|min:10',
             'phone'=> 'required',
             'date'=> 'required',
             'time'=> 'required',

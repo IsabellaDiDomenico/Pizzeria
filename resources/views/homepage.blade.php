@@ -215,11 +215,11 @@
               <div class="validate"></div>
             </div>
             <div class="col-lg-4 col-md-6 form-group mt-3">
-              <input type="text" name="date" class="form-control" id="date" placeholder="Giorno">
+              <input type="date" name="date" class="form-control" id="date" placeholder="Giorno">
               <div class="validate"></div>
             </div>
             <div class="col-lg-4 col-md-6 form-group mt-3">
-              <input type="text" class="form-control" name="time" id="time" placeholder="Orario">
+              <input type="time" class="form-control" name="time" id="time" placeholder="Orario">
               <div class="validate"></div>
             </div>
             <div class="col-lg-4 col-md-6 form-group mt-3">
